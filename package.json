@@ -1,0 +1,25 @@
+{
+  "name": "kserenity",
+  "version": "1.0.0",
+  "description": "K. Serenity landing page",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluefire2121/kserenity.git"
+  },
+  "keywords": [
+    "kserenity"
+  ],
+  "author": "Deron S.",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/bluefire2121/kserenity/issues"
+  },
+  "homepage": "https://github.com/bluefire2121/kserenity#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
